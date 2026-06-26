@@ -79,7 +79,7 @@ def incomming_query(question:str)-> str:
 
 
 
-    client = genai.Client(api_key="AIzaSyDd-f3KD9vKy-61RveCFdWQ00K8rkrdZS4")
+    client = genai.Client(api_key="keyy")
 
     # response = client.models.generate_content(
     #     model="models/gemini-2.5-flash",
